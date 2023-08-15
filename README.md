@@ -12,7 +12,7 @@ Nesta competição, você irá prever as vendas para milhares de famílias de pr
 
 --------------------------------------------------------------------------------------------------------
 # Competição 
-Este desafio foi realizado como parte de uma competição interna do BeeData, (grupo de estudos do IME-USP). Na competição, obtive a colocação de 2º lugar. Além disso, submeti o projeto à competição do Kaggle, onde alcancei a 93ª posição com um score de 0.44148, uma realização que me deixa satisfeito, especialmente considerando que foi minha primeira experiência em projetos de séries temporais.
+Este desafio foi realizado como parte de uma competição interna do BeeData, (grupo de estudos do IME-USP). Na competição, obtive a colocação de 2º lugar. Além disso, submeti o projeto à competição do Kaggle, onde alcancei a 93ª posição com um score de 0.44148 (RMSLE), uma realização que me deixa satisfeito, especialmente considerando que foi minha primeira experiência em projetos de séries temporais.
 
 ![Resultado](https://github.com/DionesGouvea/Store_Sales-Time_Series_Forecasting/blob/main/data/beepodio.png)
 
