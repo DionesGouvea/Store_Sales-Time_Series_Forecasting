@@ -2,7 +2,7 @@
 
 **Autor:** Diones Gouvea
 
-**Notebook:** [Modelo de Propensão de Compra](https://github.com/DionesGouvea/Store_Sales-Time_Series_Forecasting/blob/main/Sales_forecasting_Time_Series.ipynb)
+**Notebook:** [Modelo de Previsão de Vendas](https://github.com/DionesGouvea/Store_Sales-Time_Series_Forecasting/blob/main/Sales_forecasting_Time_Series.ipynb)
 
 -------------------------------------------------------------------
 A previsão de vendas por meio da análise de séries temporais é uma prática crucial para as empresas que desejam otimizar sua estratégia de negócios. Ao antecipar as tendências de vendas com base em padrões históricos de dados, as empresas podem obter uma vantagem competitiva notável. Isso permite que elas se preparem adequadamente para períodos de alta demanda, evitem estoques excessivos em momentos de baixa demanda e, em última análise, alcancem uma alocação de recursos mais eficiente.
