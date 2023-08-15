@@ -1,4 +1,4 @@
-# Previsão de compras com Séries Temporais - Competição BeeData.
+# Previsão de vendas com Séries Temporais - Competição BeeData.
 
 **Autor:** Diones Gouvea
 
